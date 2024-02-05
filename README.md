@@ -1,11 +1,11 @@
 # Resume
---I'M SUDHAKAR NAYAK
+ --I'M SUDHAKAR NAYAK
 
 
-  WEB DEVELOPER @ UX/UI DESIGNER
+ --WEB DEVELOPER @ UX/UI DESIGNER
 
   
---I believe in hard work and a heavy attitude....
+ --I believe in hard work and a heavy attitude....
 
 
---Works in efficient manner with the help of teammates...
+ --Works in efficient manner with the help of teammates...
